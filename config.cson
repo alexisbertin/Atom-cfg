@@ -1,0 +1,25 @@
+"*":
+  "atom-clock": {}
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontSize: 12
+    softWrap: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "bf330572-b7c3-4d0d-8cf0-5d8a5ec1b3ff"
+  "seti-syntax":
+    themeColor: "Red"
+  "seti-ui":
+    compactView: true
+  "tabs-to-spaces":
+    onSave: "untabify"
+  welcome:
+    showOnStartup: false
+".coffee.jsx.source":
+  editor:
+    autoIndentOnPaste: true
