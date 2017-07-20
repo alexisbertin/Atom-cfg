@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-31092-1vgzkya.85oy3krzfr"
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-zqm86u.2cwqiio1or"
     ]
   ],
-  "_from": "../d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
+  "_from": "../d-117620-79607-mmz6fk.sfc4n29/package.tgz",
   "_id": "atom-clock@0.1.13",
   "_inCache": true,
   "_location": "/atom-clock",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
+  "_resolved": "file:../d-117620-79607-mmz6fk.sfc4n29/package.tgz",
   "_shasum": "0a76c2ca049df8b8b0fafd1cb5a3ccefc6b4b2cf",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31092-vraojz.rnpbg4aemi/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-31092-1vgzkya.85oy3krzfr",
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-mmz6fk.sfc4n29/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-zqm86u.2cwqiio1or",
   "author": {
     "name": "Antonio Bevilacqua",
     "email": "b3by.in.th3.sky@gmail.com",

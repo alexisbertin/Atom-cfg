@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-54593-164fzlp.18s7v0wwmi"
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-dlldu7.abu2q08uxr"
     ]
   ],
-  "_from": "../d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
+  "_from": "../d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
   "_id": "autocomplete-paths@1.0.5",
   "_inCache": true,
   "_location": "/autocomplete-paths",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
+  "_resolved": "file:../d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
   "_shasum": "5e7067c0992d19e7b54a35bb07aacb154e38442c",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-54593-18e53zt.f7hdvd9529/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-54593-164fzlp.18s7v0wwmi",
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1ia9vik.v5xdjwcdi/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-dlldu7.abu2q08uxr",
   "bugs": {
     "url": "https://github.com/atom-community/autocomplete-paths/issues"
   },

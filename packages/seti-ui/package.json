@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-27808-812ud9.4b7i2lz0k9"
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-1yk8j1x.nfg7am7vi"
     ]
   ],
-  "_from": "../d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
+  "_from": "../d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
   "_id": "seti-ui@1.9.0",
   "_inCache": true,
   "_location": "/seti-ui",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
+  "_resolved": "file:../d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
   "_shasum": "f389d07b0d7ff3d941d913ab836f1fcf9b000b9c",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-27808-n26rhl.tftkdcmcxr/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-27808-812ud9.4b7i2lz0k9",
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-1pd34ne.bepaqhncdi/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-1yk8j1x.nfg7am7vi",
   "bugs": {
     "url": "https://github.com/jesseweed/seti-ui/issues"
   },

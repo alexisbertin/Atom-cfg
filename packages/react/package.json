@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-29123-bhaeee.v240rx80k9"
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-1h3hl1m.j3l2nvcxr"
     ]
   ],
-  "_from": "../d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
+  "_from": "../d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
   "_id": "react@0.16.2",
   "_inCache": true,
   "_location": "/react",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
+  "_resolved": "file:../d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
   "_shasum": "61ba744e285e5b6569ac4f52bba51b7a814f204a",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29123-7zvvp3.lzdqdunmi/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-29123-bhaeee.v240rx80k9",
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-ap9fii.t2q3mlhaor/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-1h3hl1m.j3l2nvcxr",
   "bugs": {
     "url": "https://github.com/orktes/atom-react/issues"
   },

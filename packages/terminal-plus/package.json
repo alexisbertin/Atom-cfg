@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-29243-1eot2en.jnm2c5wmi"
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-5cuts.c0yovibe29"
     ]
   ],
-  "_from": "../d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
+  "_from": "../d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
   "_id": "terminal-plus@0.14.5",
   "_inCache": true,
   "_location": "/terminal-plus",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
+  "_resolved": "file:../d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
   "_shasum": "f6fde68a4be3c007587d392e80f6363448396322",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-29243-t1k0yv.t2mwapp66r/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-29243-1eot2en.jnm2c5wmi",
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-a8mzgu.yoaa960f6r/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-5cuts.c0yovibe29",
   "author": {
     "name": "Jeremy Ebneyamin"
   },

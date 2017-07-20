@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-31747-eunl5z.sm29o7ds4i"
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-vztwrv.a4v1butyb9"
     ]
   ],
-  "_from": "../d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
+  "_from": "../d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
   "_id": "trailing-spaces@0.4.0",
   "_inCache": true,
   "_location": "/trailing-spaces",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
+  "_resolved": "file:../d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
   "_shasum": "d318a3a4b17056199f8f9e60301244bfb89253e8",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-31747-d6zv6s.1gul92j4i/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-31747-eunl5z.sm29o7ds4i",
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/d-117620-79607-yxm9xk.xebz30izfr/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gp/T/apm-install-dir-117620-79607-vztwrv.a4v1butyb9",
   "bugs": {
     "url": "https://github.com/wpillar/atom-trailing-spaces/issues"
   },
