@@ -1,17 +1,36 @@
 "*":
+  "activate-power-mode":
+    flow: "user-file"
+    particles:
+      effect: "default"
+    plugins:
+      playAudio: true
+      screenShake: true
   "atom-clock": {}
+  "atom-material-ui":
+    colors:
+      abaseColor: "#2196f3"
+      predefinedColor: "Blue"
+    tabs: {}
+    ui:
+      panelContrast: true
   core:
+    disabledPackages: [
+      "react"
+    ]
     telemetryConsent: "no"
     themes: [
       "seti-ui"
-      "seti-syntax"
+      "atom-material-syntax"
     ]
   editor:
     fontSize: 12
     softWrap: true
+    tabLength: 4
     tabType: "soft"
   "exception-reporting":
     userId: "bf330572-b7c3-4d0d-8cf0-5d8a5ec1b3ff"
+  "language-babel": {}
   "seti-syntax":
     themeColor: "Red"
   "seti-ui":
@@ -20,6 +39,16 @@
     onSave: "untabify"
   welcome:
     showOnStartup: false
+".babel.regexp.source":
+  editor:
+    autoIndent: false
 ".coffee.jsx.source":
   editor:
     autoIndentOnPaste: true
+".js.jsx.source":
+  editor:
+    autoIndent: true
+    autoIndentOnPaste: false
+".languagebabel.ttlextension":
+  editor:
+    autoIndent: false

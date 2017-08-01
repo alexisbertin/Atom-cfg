@@ -34,3 +34,4 @@
 'body':
     'cmd-q': 'core:save'
     'cmd-q cmd-q': 'application:quit'
+    'cmd-w': 'emmet:toggle-comment'
