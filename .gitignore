@@ -5,3 +5,5 @@ storage
 .apm
 .node-gyp
 .npm
+.DS_STORE
+**/.DS_STORE
