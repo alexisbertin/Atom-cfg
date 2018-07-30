@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/apm-install-dir-117723-26881-c9m747.6kurtfbt9"
+    ]
+  ],
+  "_from": "../d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+  "_id": "atom-indentation-eslintrc@0.1.1",
+  "_inCache": true,
+  "_location": "/atom-indentation-eslintrc",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+  "_shasum": "3041853d894dedeb9eda8ef825d63be00cf1879d",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-117723-26881-53gwm5.efnd6os9k9/package.tgz",
+  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/apm-install-dir-117723-26881-c9m747.6kurtfbt9",
+  "activationCommands": {
+    "atom-workspace": "atom-indentation-eslintrc:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/adamjc/atom-indentation-eslintrc/issues"
+  },
+  "dependencies": {},
+  "description": "Changes indentation rule based on your .eslintrc.json file",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/adamjc/atom-indentation-eslintrc#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/atom-indentation-eslintrc",
+  "name": "atom-indentation-eslintrc",
+  "optionalDependencies": {},
+  "readme": "# atom-indentation-eslintrc package\n\nThis will search for your .eslintrc.json file in your root directory and apply\nthe indentation rules to Atom.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjc/atom-indentation-eslintrc.git"
+  },
+  "version": "0.1.1",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".js": [
+        "lib/atom-indentation-eslintrc.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

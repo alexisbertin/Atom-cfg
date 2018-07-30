@@ -31,7 +31,11 @@
 # Atom Flight Manual:
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 
+'.platform-darwin .go-to-line atom-text-editor[mini]':
+  'cmd-w': '!unset'
+  
 'body':
-    'cmd-q': 'core:save'
-    'cmd-q cmd-q': 'application:quit'
-    'cmd-w': 'emmet:toggle-comment'
+  'cmd-q': 'core:save'
+  'cmd-q cmd-q': 'application:quit'
+  'cmd-w': 'toggle-comment'
+  'shift-cmd-W': '!unset'

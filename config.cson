@@ -1,50 +1,54 @@
 "*":
   "activate-power-mode":
-    flow: "user-file"
-    particles:
-      effect: "default"
     plugins:
       playAudio: true
       screenShake: true
-  "atom-clock": {}
   "atom-material-ui":
     colors:
-      abaseColor: "#2196f3"
-      predefinedColor: "Blue"
-    tabs: {}
+      abaseColor: "#0433ff"
+      genAccent: true
+    fonts: {}
+    tabs:
+      compactTabs: true
     ui:
       panelContrast: true
+      panelShadows: true
   core:
     disabledPackages: [
       "react"
+      "goto-definition"
+      "background-tips"
+      "linter"
     ]
     telemetryConsent: "no"
     themes: [
       "seti-ui"
-      "atom-material-syntax"
+      "atom-material-syntax-dark"
     ]
   editor:
     fontSize: 12
-    softWrap: true
-    tabLength: 4
-    tabType: "soft"
+    showIndentGuide: true
   "exception-reporting":
-    userId: "bf330572-b7c3-4d0d-8cf0-5d8a5ec1b3ff"
-  "language-babel": {}
+    userId: "007b6f89-58da-4215-bfdc-ec3f4f2d2005"
+  "linter-ui-default":
+    showPanel: true
   "seti-syntax":
-    themeColor: "Red"
+    dynamicColor: false
+    themeColor: "Yellow"
   "seti-ui":
     compactView: true
-  "tabs-to-spaces":
-    onSave: "untabify"
-  welcome:
-    showOnStartup: false
+    hideProjectTab: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
 ".babel.regexp.source":
   editor:
     autoIndent: false
 ".coffee.jsx.source":
   editor:
     autoIndentOnPaste: true
+".editorconfig.source":
+  editor:
+    tabLength: 4
 ".js.jsx.source":
   editor:
     autoIndent: true
@@ -52,3 +56,4 @@
 ".languagebabel.ttlextension":
   editor:
     autoIndent: false
+    tabLength: 2
