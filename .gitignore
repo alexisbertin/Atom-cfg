@@ -7,3 +7,4 @@ storage
 .npm
 .DS_STORE
 **/.DS_STORE
+**/node_modules

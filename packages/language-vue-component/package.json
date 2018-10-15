@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball",
+  "_id": "language-vue-component@0.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-AfRVZGMVKPEEICcClWnlRE5X8rTt5q7UuwYcZnCCMejcN8hjwOpnW/gA5dpmNLbwQXWGfP1jNezofIjDH0m8UQ==",
+  "_location": "/language-vue-component",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball",
+  "_shasum": "2f1d7cf06e433b51071e6e932bcf41d659eaf0a2",
+  "_spec": "https://www.atom.io/api/packages/language-vue-component/versions/0.5.0/tarball",
+  "_where": "/private/var/folders/gm/l1g0hld1167g58sqh8xslpvc0000gn/T/apm-install-dir-11899-2818-qyeb6q.d91gi",
+  "bugs": {
+    "url": "https://github.com/CYBAI/language-vue-component/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Adds syntax highlighting to Vue Component files in Atom.",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/CYBAI/language-vue-component#readme",
+  "license": "MIT",
+  "name": "language-vue-component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CYBAI/language-vue-component.git"
+  },
+  "version": "0.5.0"
+}

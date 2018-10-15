@@ -1,46 +1,31 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-        "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-        "type": "local"
-      },
-      "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/apm-install-dir-118011-16441-h2c6mn.uwzghc9pb9"
-    ]
-  ],
-  "_from": "../d-118011-16441-9qe0jy.onn5hr529/package.tgz",
+  "_from": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball",
   "_id": "atom-material-syntax@1.0.8",
-  "_inCache": true,
+  "_inBundle": false,
+  "_integrity": "sha512-Sr9lYOlqNkLACOvVKQDgGdN8D+qRuhUjWmr9usWFNxKf/ec5WoYafUFah0M7UgdUZEa3CSbT2cBq6sK2rPX+Jw==",
   "_location": "/atom-material-syntax",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-    "spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-    "type": "local"
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball"
   },
   "_requiredBy": [
-    "#USER"
+    "#USER",
+    "/"
   ],
-  "_resolved": "file:../d-118011-16441-9qe0jy.onn5hr529/package.tgz",
+  "_resolved": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball",
   "_shasum": "7e8a52dc55a491cd3d4338cea7ad769fb436c13d",
-  "_shrinkwrap": null,
-  "_spec": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/d-118011-16441-9qe0jy.onn5hr529/package.tgz",
-  "_where": "/private/var/folders/nf/v7fdy_3d30968pf3nysd37qm0000gq/T/apm-install-dir-118011-16441-h2c6mn.uwzghc9pb9",
+  "_spec": "https://www.atom.io/api/packages/atom-material-syntax/versions/1.0.8/tarball",
+  "_where": "/private/var/folders/gm/l1g0hld1167g58sqh8xslpvc0000gn/T/apm-install-dir-11899-3256-ya6my8.z3ppm",
   "bugs": {
     "url": "https://github.com/silvestreh/atom-material-syntax/issues"
   },
-  "dependencies": {},
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
-  "devDependencies": {},
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
   },
@@ -53,9 +38,6 @@
   ],
   "license": "MIT",
   "name": "atom-material-syntax",
-  "optionalDependencies": {},
-  "readme": "![](http://i.imgur.com/f58FC9u.png)\n---\n\nA syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).\n\n![screenshot](http://i.imgur.com/3YQeDps.png)\n",
-  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/silvestreh/atom-material-syntax.git"

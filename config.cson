@@ -23,11 +23,12 @@
     telemetryConsent: "no"
     themes: [
       "seti-ui"
-      "atom-material-syntax-dark"
+      "atom-material-syntax"
     ]
   editor:
     fontSize: 12
     showIndentGuide: true
+    tabLength: 4
   "exception-reporting":
     userId: "007b6f89-58da-4215-bfdc-ec3f4f2d2005"
   "linter-ui-default":
